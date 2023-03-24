@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background-color: antiquewhite;
+
+}
+header{
+    height: 100px;
+    background-color: rgb(40, 40, 134);
+  
+}
+.teste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: rgb(202, 201, 201);
+}
+.main-teste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(202, 201, 201)
+}
+footer{
+    height: 100px;
+    background-color: rgb(40, 40, 134);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.teste-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(202, 201, 201)
+}
